@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "code": "393c497266",
+      "session": 22,
+      "created_at": "2023-09-21T20:46:52.248308",
+      "institution": 1,
+      "branch": 1,
+      "created_by": "Shudipta"
+    },
+    {
+      "id": 3,
+      "code": "393c497266",
+      "session": 22,
+      "created_at": "2023-09-21T20:46:58.248308",
+      "institution": 1,
+      "branch": 1,
+      "created_by": "Shudipta"
+    },
+    {
+      "code": "22",
+      "session": "3",
+      "institution": 1,
+      "branch": 1,
+      "id": 4
+    }
+  ]
+}
